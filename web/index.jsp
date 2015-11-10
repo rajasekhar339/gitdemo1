@@ -13,7 +13,10 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+<<<<<<< HEAD
         <h2>Raj</h2>
         <h1>dddddd</h1>
+=======
+>>>>>>> 0c736c3c8c1d7e3fe96b44d28d573bc20ebe0a9f
     </body>
 </html>
