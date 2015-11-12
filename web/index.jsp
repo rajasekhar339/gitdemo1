@@ -19,7 +19,7 @@
         <h6>honey</h6>
         <h1><b><u>I had Made a change</u></b></h1>
         <h1>I made another change</h1>
-        <h1>Hello how r u</h1>
+        <h1>Hello how r u   </h1>
         <h1>Miracle Innovation Labs</h1>
         
 
