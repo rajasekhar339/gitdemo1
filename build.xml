@@ -68,4 +68,23 @@
     nbproject/build-impl.xml file. 
 
     -->
+	
+	
+	<target name="build-war">
+
+   <war destfile="C:\Program Files\agent\var\work\SP-Compoenent\dist\WebApplication1.war">
+   <!--Give the WebContent folder path-->
+      <fileset dir="C:\Users\miracle\Documents\NetBeansProjects\WebApplication1\build\web">
+         <include name="**/*.*"/>
+      </fileset>
+      <!--Give the lib folder path-->
+      <lib dir="C:\Users\miracle\Documents\NetBeansProjects\WebApplication1\build\web\WEB-INF\lib">
+         
+      </lib>
+      <!--Give the classes folder path-->
+      <classes dir="C:\Users\miracle\Documents\NetBeansProjects\WebApplication1\build\web\WEB-INF\classes"/>
+   </war>
+   
+</target>
+    
 </project>
