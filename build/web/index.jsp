@@ -13,16 +13,8 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>Raj</h2>
-        <h1>dddddd</h1>
-        <h2>Hello Raj How r u</h2>
-        <h6>honey</h6>
-        <h1><b><u>I had Made a change</u></b></h1>
-        <h1>I made another change</h1>
-        <h1>Hello how r u   </h1>
-        <h1>Miracle Innovation Labs</h1>
-        <h1>Nanni :-)</h1>
-        <h2><b>Made Build change</b></h2>
+       
+        <h1>MIRACLE INNOVATION LABS</h1>
         
         
 
