@@ -16,8 +16,7 @@
         <h1>MIRACLE INNOVATION LABS</h1>
         <h1>Going to place a change...</h1>
         <h1>hello</h1>
-        <h1>Miracle Labs</h1>
-        <h2>IBM Integration</h2>
+        
         <h4>May be done or not</h4>
         
         <h1>Do the same to this also</h1>
